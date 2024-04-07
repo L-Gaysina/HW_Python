@@ -42,7 +42,7 @@
 
 ## Результат
 
-Результаты проекта доступны в [Jupyter Notebook](https://github.com/L-Gaysina/HW_Python/Project_1.ipynb) на GitHub. Решения обеспечивают воспроизводимость кода, при этом используются только изученные инструменты и методы, включая numpy, pandas, matplotlib, seaborn и plotly.
+Результаты проекта доступны в [Jupyter Notebook](https://github.com/L-Gaysina/HW_Python/blob/main/Project_1_Gaisina.ipynb) на GitHub. Решения обеспечивают воспроизводимость кода, при этом используются только изученные инструменты и методы, включая numpy, pandas, matplotlib, seaborn и plotly.
 
 ## Выводы
 
