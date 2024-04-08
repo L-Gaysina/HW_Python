@@ -36,7 +36,6 @@
 * Образование и ВУЗ - уровень образования соискателя и наименование законченного учебного заведения;
 * Обновление резюме - дата и время последнего обновления резюме соискателем;
 * Авто - наличие у соискателя автомобиля.
-Исходный датасет можно скачать по ссылке
 Файл ExchangeRates.csv содержит сведенья о курсах валют.[ExchangeRates](https://github.com/L-Gaysina/HW_Python/blob/main/ExchangeRates.csv) 
 Файл Stats.csv представляет собой данные о средних заработных платах в регионах [Stats.csv](https://github.com/L-Gaysina/HW_Python/blob/main/Stat.csv)
 Исходный датасет можно скачать [тут](https://drive.google.com/file/d/1qNRAjk8rJY529WkohBJjJVOM9AyUhkcD/view?usp=share_link)
